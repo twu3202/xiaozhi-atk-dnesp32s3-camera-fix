@@ -1,0 +1,2 @@
+# Never let line endings be converted in patch files — CRLF breaks `git apply`.
+*.patch -text
